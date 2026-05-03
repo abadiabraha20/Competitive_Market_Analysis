@@ -3,8 +3,9 @@
 This repository contains all Python code for reproducing simulations, figures, and numerical results in the manuscript:
 
 **"Bayesian Calibration of Replicator Dynamics for Competitive Market Analysis"** (Applied Mathematics and Computation)
-Abadi Abraha Asgedom (Corresponding author)
-Woldegebriel Assefa Woldegerima (Contributing author)
+
+- Abadi Abraha Asgedom (Corresponding author)
+- Woldegebriel Assefa Woldegerima (Contributing author)
 
 ## Contents
 
